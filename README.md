@@ -3,6 +3,8 @@
 
 Build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. <br/>
 
+[**Click Here**](https://ash-tao.github.io/javascript-challenge/) to find out how the web page looks like. <br/>
+
 ## Part  1: Scraping
 
 Create scraping using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter.<br/>
